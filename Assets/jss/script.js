@@ -32,11 +32,10 @@ var DayFiveWindEl = document.querySelector('.DayFiveWind')
 var DayFiveHumidityEl = document.querySelector('.DayFiveHumidity')
 
 
-
 function searchFunction() {
     var searchTerm = document.getElementById('Search-Input').value
 
-    //Initial
+//Initial Weather
     LocationUrl = 'https://api.openweathermap.org/geo/1.0/direct?q=' + searchTerm + '&appid=71b3b00df1177ccbf34effc7c583f32a'
     fetch (LocationUrl)
         .then(function (response){
@@ -216,10 +215,7 @@ function searchFunction() {
     imgElementFive.src = 'https://openweathermap.org/img/wn/' + data.list[33].weather[0].icon + '@2x.png';
     })
     })
-
 }
-
-
 
 
 function OtherSearchFunction() {
