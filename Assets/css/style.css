@@ -10,18 +10,18 @@ header h1 {
     padding-right: 200px;
 }
 
-.search-column{
+.search-column {
     width: 300px;
     padding-left: 5px;
     
 }
 
-.search-bar{
+.search-bar {
     width: 300px;
     border-radius: 10px;
 }
 
-.search-button{
+.search-button {
     width: 300px;
     padding-bottom: 3px;
     border: 0px, 0px, 2px, 0px, solid black;
@@ -30,13 +30,13 @@ header h1 {
     margin-bottom: 12px;
 }
 
-.search-button-container{
+.search-button-container {
     margin-bottom: 12px;
     border-bottom: 2px solid black; 
     width: 300px;
 }
 
-.results{
+.results {
     position: absolute;
     width: 1100px;
     left: 320px;
@@ -48,7 +48,7 @@ header h1 {
 
 }
 
-.fiveday-forcast-header{
+.fiveday-forcast-header {
     position: absolute;
     width: 1100px;
     left: 320px;
@@ -57,7 +57,7 @@ header h1 {
     padding: 5px;
 }
 
-.fiveday-forcast{
+.fiveday-forcast {
     position: absolute;
     display: flex;
     flex-wrap: wrap;
@@ -69,7 +69,7 @@ header h1 {
     padding: 5px;
 }
 
-.section-tile{
+.section-tile {
     width: 1087px;
     border-style: solid;
     border: 30px, black;
@@ -81,7 +81,7 @@ header h1 {
     
 }
 
-.button{
+.button {
     width: 300px;
     padding: 3px;
     background: grey;
@@ -94,17 +94,17 @@ li {
     padding-bottom: 10px;
 }
 
-div ul{
+div ul {
     padding: 10px 30px 30px 30px;
 }
 
-#headerIcon{
+#headerIcon {
     max-width: 70px;
     max-height: 70px;
 
 }
 
-.tile-Icons{
+.tile-Icons {
     max-width: 55px;
     max-height: 55px;
     position: relative;
