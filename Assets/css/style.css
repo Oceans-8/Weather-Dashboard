@@ -36,3 +36,77 @@ header h1 {
     width: 300px;
 }
 
+.results{
+    position: absolute;
+    width: 1100px;
+    left: 320px;
+    top: 56px;
+    margin: 5px;
+    padding: 5px;
+    border-style: solid;
+    border: 2px, black;
+
+}
+
+.fiveday-forcast-header{
+    position: absolute;
+    width: 1100px;
+    left: 320px;
+    top: 316px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.fiveday-forcast{
+    position: absolute;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    width: 1100px;
+    left: 320px;
+    top: 360px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.section-tile{
+    width: 1087px;
+    border-style: solid;
+    border: 30px, black;
+    width:200px;
+    height: 250px;
+    background-color: 50497D;
+    color: white;
+    border-radius: 10px;
+    
+}
+
+.button{
+    width: 300px;
+    padding: 3px;
+    background: grey;
+    border-radius: 10px;
+    margin-bottom: 8px;
+}
+
+li {
+    list-style: none;
+    padding-bottom: 10px;
+}
+
+div ul{
+    padding: 10px 30px 30px 30px;
+}
+
+#headerIcon{
+    max-width: 70px;
+    max-height: 70px;
+
+}
+
+.tile-Icons{
+    max-width: 55px;
+    max-height: 55px;
+    position: relative;
+    left: 70px;
+}
