@@ -19,6 +19,7 @@ Main source of the displayed information was the following weather site's API.
 <a href="https://openweathermap.org/forecast5#list"></a>
 
 # Appearance
-![Alt text](,.png)
+
+![Working application screenshot](<Images/Application Screenshot.png>)
 
 ## Link
