@@ -1,5 +1,5 @@
 # Weather App
-Module 6 Challenge Waether Application
+Module 6 Challenge Weather Application
 
 # Project
 Create a weather application
